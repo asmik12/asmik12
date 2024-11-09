@@ -4,11 +4,6 @@ Hello! I'm **Asmi Kawatkar**, a UCLA Junior with a strong foundation in machine 
 
 # 📑 Index
 - [🚀 Projects Overview](#-projects-overview)
-  - [I'm Not a Robot: CAPTCHA Design, Security & Attacks](#im-not-a-robot-captcha-design-security--attacks)
-  - [Recommendation System Development for Fintech](#recommendation-system-development-for-fintech)
-  - [Large Scale Integer Linked List Addition](#large-scale-integer-linked-list-addition)
-  - [Digit Recognition System](#digit-recognition-system)
-  - [Condense](#condense)
 - [🛠️ Core Technical Skills](#-core-technical-skills)
 - [🌟 Leadership & Experience](#-leadership--experience)
 - [📚 Certifications & Achievements](#-certifications--achievements)
