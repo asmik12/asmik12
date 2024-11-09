@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **[Your Name]**, a [current position, e.g., "Software Engineer Intern" or "ML/AI Tech Fellow"] with a strong foundation in machine learning, data science, and full-stack development. I’m passionate about leveraging technology to solve complex problems and building projects that push the boundaries of innovation.
+Hello! I'm **Asmi Kawatkar**, a Mathematics of Computation major at UCLA, with a strong foundation in machine learning, data science, and full-stack development. I’m passionate about leveraging technology to solve complex problems and building projects that push the boundaries of innovation.
 
 ## 🚀 Projects Overview
 
