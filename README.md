@@ -39,4 +39,4 @@ Hello! I'm **Asmi Kawatkar**, a UCLA Junior with a strong foundation in machine 
 - Expanding my knowledge of **LLM-driven open-ended information extraction**.
 
 ## 📫 Let's Connect!
-I'm always excited to collaborate on projects, discuss new ideas, or just chat about the latest in tech. Feel free to reach out or explore my [LinkedIn](your-linkedin-url) for more details on my experience.
+I'm always excited to collaborate on projects, discuss new ideas, or just chat about the latest in tech. Feel free to reach out or explore my [LinkedIn](https://www.linkedin.com/in/asmi-kawatkar/) for more details on my experience.
