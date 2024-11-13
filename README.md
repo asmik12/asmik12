@@ -28,7 +28,6 @@ Hello! I'm **Asmi Kawatkar**, a UCLA Junior with a strong foundation in machine 
 ## 🌟 Leadership & Experience
 - **ML/AI Tech Fellow, Break Through Tech AI**: Leading ML-focused projects and fostering growth in tech communities.
 - **HackOps Director, LA Hacks 2025**: Spearheading event logistics and ensuring a seamless experience for thousands of participants.
-- **Flask Web Development**: Building secure web applications with modern security practices, including cookie management and sandboxing tests.
 
 ## 📚 Certifications & Achievements
 - **Machine Learning Fundamentals** (eCornell Certification)
