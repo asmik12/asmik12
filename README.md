@@ -14,7 +14,7 @@ Hello! I'm **Asmi Kawatkar**, a UCLA Junior with expertise in machine learning, 
 - **Real Time Digit Recognition WebApp** - Using MNIST dataset and optimizing CNN architecture for high accuracy.
 - **Optimizing ADHD Diagnostic Accuracy** - (Kaggle Competition)
 - **Enhancing LLM Memory Systems** - Optimizing Meta LLaMa models for contextually relevant follow-up questions using the LongMemEval dataset
--**Recommendation System Development for Fintech** – Enhancing customer experiences with personalized AI-driven recommendations.  
+- **Recommendation System Development for Fintech** – Enhancing customer experiences with personalized AI-driven recommendations.  
 - **I'm Not a Robot: CAPTCHA Design, Security & Attacks** – Analyzing CAPTCHA mechanisms, their vulnerabilities, and potential attacks.  
 - **Condense** – A web scraper that extracts and organizes hackathon data from Devpost to streamline project discovery.  
 - **MSP Resource Repository** – A curated collection of original resources to support STEM students in their academic journey.  
